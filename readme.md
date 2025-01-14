@@ -1,7 +1,7 @@
 # RRT (Rapidly-exploring Random Tree) Navigation Algorithm
-## Purpose: 
+### Purpose: 
 RRT is an optimization algorithm for finding paths in high-dimensional space, which is very useful for robots to navigate through obstacles.
-## How it works:
+### How it works:
 Starting from the initial position, the algorithm expands the search tree by generating random points in space.
 Each new point is checked to ensure that it does not collide with obstacles. If possible, it connects to the current tree.
 As the tree grows, the algorithm finds a path from the starting point to the destination, while also being able to adapt to changes in the environment.
