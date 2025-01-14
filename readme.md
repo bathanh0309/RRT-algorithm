@@ -29,6 +29,8 @@ Smart path planning: Based on information from Yolo, RRT can adjust its path to 
 
 Adapt to dynamic environments: The autonomous vehicles can automatically adjust its behavior based on new objects appearing in the environment, thanks to Yolo's real-time recognition capabilities.
 
+<img src="
+
 https://github.com/user-attachments/assets/82ad11ab-8727-4e50-9716-ae98289eeb89
 
 https://github.com/user-attachments/assets/0acbe8e5-27cd-4544-8ecd-db77a4d0f766
