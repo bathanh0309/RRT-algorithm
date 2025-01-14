@@ -18,11 +18,12 @@ Each bounding box comes with a probability of the presence of an object, which h
 
 Yolo is capable of processing hundreds of frames per second, making it ideal for applications that require fast response.
 
-## Integration Between RRT and Yolo
-## When combining RRT and Yolo on Jetson Nano, the robot can:
+## When combining RRT and Yolo on Jetson Nano, the autonomous vehicles can:
 Recognize and determine the distance to objects: Yolo helps the robot detect surrounding objects, while RRT calculates the optimal path to avoid collisions.
+
 Smart path planning: Based on information from Yolo, RRT can adjust its path to safely and efficiently overcome obstacles.
-Adapt to dynamic environments: The robot can automatically adjust its behavior based on new objects appearing in the environment, thanks to Yolo's real-time recognition capabilities.
+
+Adapt to dynamic environments: The autonomous vehicles can automatically adjust its behavior based on new objects appearing in the environment, thanks to Yolo's real-time recognition capabilities.
 
 https://github.com/user-attachments/assets/82ad11ab-8727-4e50-9716-ae98289eeb89
 
