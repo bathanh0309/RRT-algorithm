@@ -4,7 +4,7 @@
 ### Research results
 https://github.com/user-attachments/assets/0acbe8e5-27cd-4544-8ecd-db77a4d0f766
 
-## RRT (Rapidly-exploring Random Tree) Navigation Algorithm
+### RRT (Rapidly-exploring Random Tree) Navigation Algorithm
 https://github.com/user-attachments/assets/82ad11ab-8727-4e50-9716-ae98289eeb89
 
 ### Purpose: 
@@ -16,8 +16,7 @@ Each new point is checked to ensure that it does not collide with obstacles. If 
 
 As the tree grows, the algorithm finds a path from the starting point to the destination, while also being able to adapt to changes in the environment.
 
-## Yolo (You Only Look Once) Algorithm
-
+### Yolo (You Only Look Once) Algorithm
 https://github.com/user-attachments/assets/fd2ad832-704b-4afa-b705-331a26b53cc7
 
 ### Purpose: 
