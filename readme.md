@@ -1,12 +1,10 @@
 :bangbang: See a small portion of the code
 
 :bangbang: All important code is deleted from the old computer 
-## Research results
-
+### Research results
 https://github.com/user-attachments/assets/0acbe8e5-27cd-4544-8ecd-db77a4d0f766
 
 ## RRT (Rapidly-exploring Random Tree) Navigation Algorithm
-
 https://github.com/user-attachments/assets/82ad11ab-8727-4e50-9716-ae98289eeb89
 
 ### Purpose: 
